@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 WhatstheName/Saved/Logs/WhatstheName.log
+WhatstheName/Intermediate/CachedAssetRegistry.bin
