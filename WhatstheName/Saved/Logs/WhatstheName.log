@@ -348,3 +348,74 @@ LogInit: Object subsystem initialized
 [2019.01.26-07.29.42:500][705]LogFileHelpers: Loading map 'Test_MAp' took 0.210
 [2019.01.26-07.29.45:044][992]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/whatsthename/WhatstheName/Saved/Test_MAp7EADE2EC425FB632CB17569530053D7D.tmp' to '../../../../../../Users/student/Documents/GitHub/whatsthename/WhatstheName/Content/2DSideScrollerBP/Maps/Test_MAp.umap'
 [2019.01.26-07.29.45:072][992]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/whatsthename/WhatstheName/Saved/Test_MAp_BuiltData04BA8AE44B862A7C6F9B43A2FED519D1.tmp' to '../../../../../../Users/student/Documents/GitHub/whatsthename/WhatstheName/Content/2DSideScrollerBP/Maps/Test_MAp_BuiltData.uasset'
+[2019.01.26-07.31.25:718][588]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RightEdge)
+[2019.01.26-07.31.26:358][649]Cmd: DELETE
+[2019.01.26-07.31.26:358][649]Cmd: ACTOR DELETE
+[2019.01.26-07.31.26:360][649]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.01.26-07.31.26:381][649]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.01.26-07.31.28:223][858]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.01.26-07.31.28:480][880]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2019.01.26-07.31.28:922][923]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2019.01.26-07.31.29:375][975]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2019.01.26-07.31.31:658][238]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2019.01.26-07.31.43:298][587]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.01.26-07.31.43:969][661]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_32)
+[2019.01.26-07.32.03:201][899]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_32)
+[2019.01.26-07.32.04:878][ 95]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2019.01.26-07.32.05:335][143]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_31)
+[2019.01.26-07.32.26:577][594]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_30)
+[2019.01.26-07.32.45:638][749]LogEditorViewport: Clicking Background
+[2019.01.26-07.32.48:524][ 67]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_29)
+[2019.01.26-07.33.14:418][ 83]LogEditorViewport: Clicking Background
+[2019.01.26-07.33.17:771][478]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_29)
+[2019.01.26-07.33.21:574][925]LogEditorViewport: Clicking Background
+[2019.01.26-07.33.53:410][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-07.33.53:620][742]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/whatsthename/WhatstheName/Saved/Test_MApFB283EFA48C5B6D4434150A9148CE493.tmp' to '../../../../../../Users/student/Documents/GitHub/whatsthename/WhatstheName/Content/2DSideScrollerBP/Maps/Test_MAp.umap'
+[2019.01.26-07.33.53:647][742]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/whatsthename/WhatstheName/Saved/Test_MAp_BuiltDataF0D2007D450091E8AD635198B392E8F2.tmp' to '../../../../../../Users/student/Documents/GitHub/whatsthename/WhatstheName/Content/2DSideScrollerBP/Maps/Test_MAp_BuiltData.uasset'
+[2019.01.26-07.48.06:723][686]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-07.48.10:195][ 65]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.01.26-07.48.10:609][107]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2019.01.26-07.48.26:245][930]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_32)
+[2019.01.26-07.48.40:512][557]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_31)
+[2019.01.26-07.48.48:384][460]LogEditorViewport: Clicking Background
+[2019.01.26-07.48.50:818][748]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_31)
+[2019.01.26-07.48.55:114][218]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_31)
+[2019.01.26-07.48.55:454][247]LogEditorViewport: Clicking Background
+[2019.01.26-07.48.56:149][328]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_31)
+[2019.01.26-07.48.59:893][754]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_30)
+[2019.01.26-07.49.15:004][498]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_29)
+[2019.01.26-07.49.30:509][323]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_30)
+[2019.01.26-07.49.30:998][371]LogEditorViewport: Clicking Background
+[2019.01.26-07.49.31:765][462]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Ledge_29)
+[2019.01.26-07.49.31:809][462]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-07.49.32:742][570]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_29)
+[2019.01.26-07.49.34:426][768]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_30)
+[2019.01.26-07.49.34:851][813]LogEditorViewport: Clicking Background
+[2019.01.26-07.49.40:922][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-07.49.41:004][535]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-07.49.41:015][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp:PersistentLevel.Test_MAp' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp:PersistentLevel.Test_MAp'
+[2019.01.26-07.49.41:016][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-07.49.41:028][535]PIE: New page: PIE session: Test_MAp (Jan 25, 2019, 3:49:41 PM)
+[2019.01.26-07.49.41:028][535]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_Test_MAp
+[2019.01.26-07.49.41:031][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003001s)
+[2019.01.26-07.49.41:032][535]LogAIModule: Creating AISystem for world Test_MAp
+[2019.01.26-07.49.41:032][535]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2019.01.26-07.49.41:032][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp to /Game/2DSideScrollerBP/Maps/UEDPIE_0_Test_MAp.Test_MAp (0.003942s)
+[2019.01.26-07.49.41:061][535]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-07.49.41:087][535]LogInit: FAudioDevice initialized.
+[2019.01.26-07.49.41:127][535]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.26-07.49.41:130][535]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_Test_MAp.Test_MAp up for play (max tick rate 0) at 2019.01.25-23.49.41
+[2019.01.26-07.49.41:130][535]LogWorld: Bringing up level for play took: 0.001545
+[2019.01.26-07.49.41:152][535]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.01.26-07.49.41:153][535]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_Test_MAp -0.063
+[2019.01.26-07.49.41:153][535]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp:PersistentLevel.Test_MAp' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp:PersistentLevel.Test_MAp'
+[2019.01.26-07.50.01:942][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-07.50.02:985][152]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp:PersistentLevel.Test_MAp' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp:PersistentLevel.Test_MAp'
+[2019.01.26-07.50.02:985][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-07.50.03:021][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-07.50.03:021][152]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp:PersistentLevel.Test_MAp' with GeneratedClass '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/Test_MAp.Test_MAp:PersistentLevel.Test_MAp'
+[2019.01.26-07.50.03:046][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-07.50.03:085][156]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.01.26-07.50.10:885][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-07.50.21:362][324]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/whatsthename/WhatstheName/Saved/Test_MAp1D2A128D4DEEAD86D960B1AA4C3DD230.tmp' to '../../../../../../Users/student/Documents/GitHub/whatsthename/WhatstheName/Content/2DSideScrollerBP/Maps/Test_MAp.umap'
+[2019.01.26-07.50.21:391][324]LogSavePackage: Moving '../../../../../../Users/student/Documents/GitHub/whatsthename/WhatstheName/Saved/Test_MAp_BuiltData52F1D99A46C81DE4851D068B295571D5.tmp' to '../../../../../../Users/student/Documents/GitHub/whatsthename/WhatstheName/Content/2DSideScrollerBP/Maps/Test_MAp_BuiltData.uasset'
