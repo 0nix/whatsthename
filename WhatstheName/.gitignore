@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 WhatstheName/Saved/Logs/WhatstheName.log
 WhatstheName/Intermediate/CachedAssetRegistry.bin
+
+# Melee 
+Content/Weapon_Pack/*

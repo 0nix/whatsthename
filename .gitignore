@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 WhatstheName/Saved/Logs/WhatstheName.log
 WhatstheName/Intermediate/CachedAssetRegistry.bin
+
+WhatstheName/Content/2DSideScrollerBP/Blueprints/NewBlueprint\.uasset
